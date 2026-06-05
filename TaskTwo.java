@@ -17,7 +17,7 @@ class TaskTwo {
     String output = "" + c1 + l + i + c5 + c2 + b + c3 + s + c4 + c5 + f + c5 + bool;
 
     public void main (String[] args) {
-        System.out.println(output);
+        System.out.println(output); //Display the string
     }
 
 }

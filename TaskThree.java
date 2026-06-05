@@ -14,7 +14,7 @@ public class TaskThree {
     void main () {
 
         if (b1 && b2 && b3) {
-            System.out.println("Success!");
+            System.out.println("Success!"); //Display if all booleans are true
         }
 
     }
