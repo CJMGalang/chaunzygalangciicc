@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TaskFour {
+public class Task4 {
 
     void main () {
 

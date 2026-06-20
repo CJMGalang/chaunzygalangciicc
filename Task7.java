@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TaskSeven {
+public class Task7 {
 
     String x;
     String y;

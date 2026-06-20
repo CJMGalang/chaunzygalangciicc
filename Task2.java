@@ -1,4 +1,4 @@
-class TaskTwo {
+class Task2 {
     
     //All the different primitive data types excluding double
     boolean bool = true;

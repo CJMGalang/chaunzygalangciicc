@@ -1,4 +1,4 @@
-public class TaskThree {
+public class Task3 {
 
     //Corrected variables
     String a = "Wow";

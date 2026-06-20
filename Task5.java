@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TaskFive {
+public class Task5 {
     void main () {
 
     System.out.print("First number: ");
