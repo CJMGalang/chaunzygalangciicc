@@ -42,7 +42,7 @@ class Book {
 
 public class Task11 {
 
-    public void main () {
+    public static void main (String [] args) {
 
         int i = 0;
 

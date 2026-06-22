@@ -1,12 +1,11 @@
 import java.util.Scanner;
-import static java.lang.Math.*;
 
 public class Task9 {
 
-    int x;
-    int y;
+    public static void main (String[] args) {
 
-    void main () {
+        int x;
+        int y;
 
         for (;;) {
 
